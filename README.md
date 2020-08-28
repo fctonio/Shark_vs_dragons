@@ -1,5 +1,3 @@
-# hello
-
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Sharks vs Dragons
@@ -38,7 +36,7 @@ What dataset (or datasets) did you use? What are the different sources you used 
 
 We were able to locate two suitable datasets in csv form for the American franchise, Shark Tank. However, we could not locate a suitable dataset for Dragon's Den, and therefore had to use web scraping to access comparable information. 
 
-The project dataset was obtained through directly downloading raw data as well as webscraping:
+The project dataset was obtained through directly downloading raw data as well as webscraping.
 
 **dataset_1: shark_tank.csv as "shark_ent" (shark entrepreneurs)**
 - download of raw data
