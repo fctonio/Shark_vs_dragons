@@ -1,7 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Sharks vs Dragons
-*Group project, week 3
+
+*Group project, week 3*
 *Julia, Anton, Imogen*
 
 *August 2020 cohort, Berlin, 28.08.20*
@@ -16,7 +17,6 @@
 - [Links](#links)
 
 ## Project Description
-
 
 We decided to examine data from the reality TV show franchises 'Dragon's Den' (UK) and 'Shark Tank' (USA). In the show, entrepreneurs pitch business ideas or businesses to a panel of investors (referred to as 'Dragons' or 'Sharks', respectively), and the investors then decide whether to invest in the company. We were interested in comparing the two franchises to look for points of commonality and difference. 
 
@@ -36,26 +36,26 @@ We were able to locate two suitable datasets in csv form for the American franch
 
 The project dataset was obtained through directly downloading raw data as well as webscraping:
 
-**dataset_1: shark_tank.csv as "shark_ent" (shark entrepreneurs)**
-- download of raw data
-Link: https://www.kaggle.com/rahulsathyajit/shark-tank-pitches
-Source:www.kaggle.com
-Last edited: 2017
+**dataset_1: shark_tank.csv as "shark_ent" (shark entrepreneurs)**  
+- download of raw data  
+Link: https://www.kaggle.com/rahulsathyajit/shark-tank-pitches  
+Source:www.kaggle.com  
+Last edited: 2017  
 Last accessed: 28 Aug 2020
 
-**dataset_2: shark_deals.csv as "shark_inv" (shark investors)**
-- download of raw data
-Link: https://www.kaggle.com/neiljs/all-shark-tank-us-pitches-deals
-Source: 
-Last edited: 2017
-Last accessed: 27 Aug 2020
+**dataset_2: shark_deals.csv as "shark_inv" (shark investors)**  
+- download of raw data  
+Link: https://www.kaggle.com/neiljs/all-shark-tank-us-pitches-deals  
+Source: www.kaggle.com   
+Last edited: 2017  
+Last accessed: 27 Aug 2020  
 
-**dataset_3: dragons_den.csv**
-- webscraping
-Link:https://en.wikipedia.org/wiki/Dragons'_Den_(British_TV_programme)#Statistics 
-Source: www.wikipedia.org
-Last edited: 23 Aug 2020
-Last accessed: 27 Aug 2020
+**dataset_3: dragons_den.csv**  
+- webscraping  
+Link:https://en.wikipedia.org/wiki/Dragons'_Den_(British_TV_programme)#Statistics   
+Source: www.wikipedia.org  
+Last edited: 23 Aug 2020  
+Last accessed: 27 Aug 2020  
 
 
 ## Database
@@ -82,12 +82,8 @@ First we decided on our topic and began a broad search for data. We compared var
 
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-What does your repository look like? Explain your folder and file structure.
-
 
 We created a kanban board on Trello to organise and coordinate work among ourselves. That way, we could distinguish between tasks that needed to be done and tasks that would be nice to have if time permits. The kanban board also allowed us to assign tasks to one or more of us, making it easier to keep track of who was doing what. 
-
 
 Our repository contains the following files:
 - this README file
@@ -104,10 +100,8 @@ Our repository contains the following files:
     - jupyter file_4 (start of analysis of data): jn_4_descriptive_statistics.ipynb
 
 
-
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/fctonio/Shark_vs_dragons) 
+[Repository](https://github.com/fctonio/Shark_vs_dragons)  
 
 [Trello](https://trello.com/b/HXCiA8Xj/sharks-vs-dragons)
